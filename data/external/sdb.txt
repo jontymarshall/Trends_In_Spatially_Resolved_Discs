@@ -1,0 +1,3 @@
+# Obtaining JSON files from SDB
+
+The JSON files containing ancilliary data used in the analysis of the spatially resolved debris discs sample can be obtained from http://drgmk.com/sdb/samples/marshall_resolved/.
